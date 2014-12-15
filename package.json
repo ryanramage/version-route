@@ -1,7 +1,7 @@
 {
   "name": "version-route",
-  "version": "0.0.0",
-  "description": "WIP - nothing to see here",
+  "version": "1.0.0",
+  "description": "Expose the package.json version and git info as a hapi route",
   "main": "./lib/index.js",
   "dependencies": {},
   "devDependencies": {

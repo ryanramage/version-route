@@ -1,0 +1,22 @@
+{
+  "name": "version-route",
+  "version": "0.0.0",
+  "description": "WIP - nothing to see here",
+  "main": "./lib/index.js",
+  "dependencies": {},
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://gitlab.rmcloud.com/npm-modules/version-route.git"
+  },
+  "bugs": {
+    "url": "http://gitlab.rmcloud.com/npm-modules/version-route/issues"
+  },
+  "homepage": "http://gitlab.rmcloud.com/npm-modules/version-route",
+  "publishConfig": {
+    "registry": "http://npm.rmcloud.com:8123"
+  }
+}

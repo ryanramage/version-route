@@ -24,11 +24,6 @@ curl http://localhost:493/v
 ```
 
 
-##options
-
-
-
-
 
 ## License
 
